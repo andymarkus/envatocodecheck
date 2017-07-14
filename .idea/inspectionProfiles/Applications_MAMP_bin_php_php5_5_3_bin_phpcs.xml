@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Applications/MAMP/bin/php/php5.5.3/bin/phpcs" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="CODING_STANDARD" value="Custom" />
+      <option name="CUSTOM_RULESET_PATH" value="/Applications/MAMP/bin/php/php5.5.3/lib/php/PHP/CodeSniffer/Standards/Prestashop" />
+    </inspection_tool>
+    <inspection_tool class="PhpIllegalArrayKeyTypeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
